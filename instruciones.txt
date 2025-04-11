@@ -1,0 +1,7 @@
+Para usar la terminal debes instalar con pip estas librerias
+pip install NombreLibreria
+
+librerias
+colorama
+pynput
+WMI

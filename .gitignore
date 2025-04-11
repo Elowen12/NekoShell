@@ -1,0 +1,12 @@
+venv/
+__pycache__
+comandos/__pycache__/
+comandos/io/__pycache__/
+comandos/programacion/python/__pycache__/
+comandos/sistema/__pycache__/
+comandos/utileria/__pycache__/
+lib/__pycache__/
+lib/io/__pycache__/
+lib/programacion/python/__pycache__/
+lib/sistema/__pycache__/
+lib/utileria/__pycache__/
