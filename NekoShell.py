@@ -19,7 +19,7 @@ class NekoShell(cmd.Cmd):
     def __init__(self, completekey = "tab", stdin = None, stdout = None):
         super().__init__(completekey, stdin, stdout)
         
-        self.version = "1.0.2"
+        self.version = "1.0.3"
         
         self.rutaRoot = "/"
         self.usu = usuario()

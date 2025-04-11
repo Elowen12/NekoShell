@@ -1,0 +1,84 @@
+Ver la versión de Neko Shell
+nversion
+
+ver el usuario actual activo
+nusuario
+
+ver usuarios del dispositivo
+nusuarios
+
+limpiar consola
+nlimpiar
+
+ver la fecha
+nfecha
+
+ver la hora
+nhora
+
+crear un archivo 
+Aún no funciona
+narchivo
+
+leer un archivo
+Aún no funciona
+nlector
+
+salir de la apicación
+nsalir
+
+ver contenido directorios
+nls
+
+moverse entre directorios
+ncd
+
+regresar a un directorio anterios
+nback
+
+resetear la consola
+nreset
+
+interactuar con archivos o comandos python
+
+crear una clase
+npy -c NombreClase
+
+Ejecutar un script
+npy -e NombreScript
+
+crear un entorno virtual
+npy -v NombreEntorno
+
+ingresar al entorno virtual
+npy -ev NombreEntorno
+
+instalar librerias python
+npy -i NombreLibreria
+
+interactuar con Git
+Debes de tener git instalado en tu computadora
+
+clonar repositorio
+ngit -c linkRepositorio
+
+ver status del repositorio
+ngit -s
+
+ver registros del repositorio
+ngit -l
+
+agregar contenido al repositorio para pasar luego al commit
+ngit -a
+
+realizar un commit al repositorio
+ngit -m comentario ejemplo: ngit -m Este es un comentario
+
+subir el repositorio al repositorio remoto
+ngit -o NombreRutaRamaMaster
+
+configurar un usuario en git
+ngit -u NombreUsuario
+
+configurar un correo en git
+ngit -e NombreCorreo
